@@ -1,0 +1,9 @@
+body{
+ text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contener{
+    border: double rgb(157, 160, 154) 4px ;
+    background-color: rgb(232, 236, 236);
+    width: 800px;
+}
